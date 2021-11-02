@@ -25,8 +25,8 @@
 <img align="left" alt="TypeScript" width="26px" src="/assets/typescript.svg" />
 <img align="left" alt="React" width="26px" src="/assets/react.svg" />
 <img align="left" alt="Vue" width="26px" src="/assets/vue.svg" />
-<img align="left" alt="Deno" width="26px" src="/assets/icons/deno.svg" />
-<img align="left" alt="Git" width="26px" src="/assets/icons/git.svg" />
+<img align="left" alt="Deno" width="26px" src="/assets/deno.svg" />
+<img align="left" alt="Git" width="26px" src="/assets/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="/assets/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="/assets/windowsterminal.svg" />
 <img align="left" alt="Unity" width="26px" src="/assets/unity.svg" />
