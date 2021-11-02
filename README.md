@@ -18,8 +18,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" style="background-color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />]
+[<img align="left" alt="Visual Studio Code" width="26px" style="fill: green;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />]
+[<img align="left" alt="HTML5" width="26px" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />]
