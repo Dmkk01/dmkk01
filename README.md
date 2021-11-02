@@ -37,4 +37,8 @@
 <br />
 <br />
 
+### My Statistics
+[![Dominik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmkk01)]
+
+
 [linkedin]: https://www.linkedin.com/in/dominik-lasinski/
