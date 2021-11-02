@@ -39,6 +39,7 @@
 
 ### My Statistics
 [![Dominik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmkk01)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmkk01&layout=compact)]
 
 
 [linkedin]: https://www.linkedin.com/in/dominik-lasinski/
