@@ -17,20 +17,21 @@
 <br />
 
 ### Languages and Tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />]
-[<img align="left" alt="Deno" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/deno.svg" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windowsterminal.svg" />]
-[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/unity.svg" />]
-[<img align="left" alt="Cypress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cypress.svg" />]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg" />]
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />
+<img align="left" alt="Deno" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/deno.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windowsterminal.svg" />
+<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/unity.svg" />
+<img align="left" alt="Cypress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cypress.svg" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg" />
 
 
 <br />
