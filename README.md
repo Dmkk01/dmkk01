@@ -1,15 +1,13 @@
-### Hi there, I'm Dominik 👋
+## Hi there, I'm Dominik and I'm a self-taught passionate developer
 
-## I'm a self-taught passionate developer
-
-My interests include: 
+### My interests include: 
 - Web Development with React and Vue (Javascript/Typescript)
 - Mobile Development with Flutter (Dart)
 - Game Development with Unity (C#)
 
 ### Work in progress
-- Part-time job as a web developer (Vue.js) [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][maturait]
-- Spot Me - mobile application for people affected with psoriasis. Roles: Frontend with Dart (app) and React (web) [spotme]
+- Part-time job as a web developer (Vue.js) at  [MaturaIT](https://www.maturait.pl/)
+- [Spot Me](https://www.linkedin.com/company/spot-me/) - mobile application for people affected with psoriasis. Roles: Frontend with Dart (app) and React (web)
 - Mobile volleyball card game. Roles: Unity/C# developer
 
 ### Connect with me:
@@ -35,6 +33,4 @@ My interests include:
 <br />
 <br />
 
-[maturait]: https://www.maturait.pl/
 [linkedin]: https://www.linkedin.com/in/dominik-lasinski/
-[spotme]: https://www.linkedin.com/company/spot-me/
