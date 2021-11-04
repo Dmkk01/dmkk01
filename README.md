@@ -7,7 +7,7 @@
 
 ### Work in progress
 - Part-time job as a web developer (Vue.js) at  [MaturaIT](https://www.maturait.pl/)
-- [Spot Me](https://www.linkedin.com/company/spot-me/) - mobile application for people affected with psoriasis. Roles: Frontend with Dart (app) and React (web)
+- [Spot Me](https://www.linkedin.com/company/spot-me/) - mobile application for people affected with psoriasis. Roles: Frontend with Flutter (app) and React (web)
 - Mobile volleyball card game. Roles: Unity/C# developer
 
 ### Connect with me:
