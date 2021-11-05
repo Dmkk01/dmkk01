@@ -32,6 +32,8 @@
 <img align="left" alt="Unity" width="26px" src="/assets/unity.svg" />
 <img align="left" alt="Cypress" width="26px" src="/assets/cypress.svg" />
 <img align="left" alt="Flutter" width="26px" src="/assets/flutter.svg" />
+<img align="left" alt="Python" width="26px" src="/assets/python.svg" />
+<img align="left" alt="Django" width="26px" src="/assets/django.svg" />
 
 
 <br />
