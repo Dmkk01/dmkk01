@@ -12,7 +12,7 @@
 - Mobile volleyball card game. Roles: Unity/C# developer
 
 ### Others
-- P5.js Visual Studio Code extension with snippets, commands and syntax documentation: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools).
+- P5 Snippets and Tools - P5.js Visual Studio Code extension with snippets, commands and syntax documentation: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools).
 
 ### Connect with me:
 
