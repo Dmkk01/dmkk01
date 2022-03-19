@@ -11,6 +11,9 @@
 - [Spot Me](https://www.linkedin.com/company/spot-me/) - mobile application for people affected with psoriasis. Roles: Frontend with Flutter (app) and React ([web](https://www.spotmetogether.com/))
 - Mobile volleyball card game. Roles: Unity/C# developer
 
+### Others
+- P5.js Visual Studio Code extension with snippets, commands and syntax documentation: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools).
+
 ### Connect with me:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="/assets/linkedin.svg" />][linkedin]
