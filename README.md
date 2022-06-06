@@ -8,8 +8,7 @@
 ### Work/Projects in progress
 - Full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 - Part-time front lead developer (Vue.js) at [MaturaIT](https://www.maturait.pl/)
-- [Spot Me](https://www.linkedin.com/company/spot-me/) - mobile application for people affected with psoriasis. Roles: Frontend with Flutter (app) and React ([web](https://www.spotmetogether.com/))
-- Mobile volleyball card game. Roles: Unity/C# developer
+- Mobile/Web paralympic card game. Roles: Full-Stack developer (React + Strapi)
 
 ### Others
 - P5 Snippets and Tools - P5.js Visual Studio Code extension with snippets, commands and syntax documentation: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools).
