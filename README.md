@@ -8,7 +8,7 @@
 ### Work/Projects in progress
 - Full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 - Part-time front lead developer (Vue.js) at [MaturaIT](https://www.maturait.pl/)
-- Mobile/Web paralympic card game. Roles: Full-Stack developer (React + Strapi)
+- Mobile/Web paralympic card game. Roles: Full-Stack developer (React-Javascript, Django-Python, DigitalOcean)
 
 ### Others
 - P5 Snippets and Tools - P5.js Visual Studio Code extension with snippets, commands and syntax documentation: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools).
