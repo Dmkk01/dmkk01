@@ -2,7 +2,7 @@
 
 ### My interests include: 
 - Web Development with React and Vue (Javascript/Typescript)
-- Mobile Development with Flutter (Dart)
+- Mobile Development with Flutter (Dart) and React Native (Typescript)
 - Game Development with Unity (C#)
 
 ### Work/Projects in progress
