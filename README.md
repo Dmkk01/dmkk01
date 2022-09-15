@@ -6,8 +6,8 @@
 - Game Development with Unity (C#)
 
 ### Work/Projects in progress
-- Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 - Part-time front lead developer (Vue.js) at [MaturaIT](https://www.maturait.pl/)
+- Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 - Mobile/Web paralympic card game. Roles: Full-Stack developer (React-Javascript, Django-Python, DigitalOcean)
 
 ### Others
