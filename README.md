@@ -46,6 +46,8 @@
 
 ### My Statistics
 ![Dominik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmkk01)
+[![dmkk01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Dmkk01)](https://wakatime.com/@Dmkk01)
+
 
 
 [linkedin]: https://www.linkedin.com/in/dominik-lasinski/
