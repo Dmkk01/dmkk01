@@ -11,10 +11,11 @@
 - Worked as a part-time frontend developer (Javascript/Ruby) at [Bukowskis](https://www.bukowskis.com/en)
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
-### Others
+### Some of my other work
 - Paralympic Card Game App. Roles: Full-Stack developer (React, Django, DigitalOcean) [Link](https://igrzyskaparaolimpijskie.pl/)
 - P5 Snippets and Tools - P5.js Visual Studio Code extension with snippets, commands and syntax documentation: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools).
 - How many days can I be in US? - Travel calculator for US expartriate - [Link](https://www.howmanydayscanibeinus.com/) 
+- Landscape Creative - porfolio website for a friend's relative (T3 Stack) - [Link](https://edwinyeephotography.com/)
 
 ### Connect with me:
 
