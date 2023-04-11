@@ -6,8 +6,8 @@
 - Game Development with Unity (C#)
 
 ### Work/Projects in progress
-- Currently working on a 'secret' project called [Song AI](https://song-ai.com/) using T3 stack (Next.js, Typescript, Tailwind and TRPc)
 - Part-time front lead developer (Vue.js) at [MaturaIT](https://www.maturait.pl/)
+- Part-time frontend and game developer at [Adquizition](http://www.adquizition.com/)
 - Worked as a part-time frontend developer (Javascript/Ruby) at [Bukowskis](https://www.bukowskis.com/en)
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
