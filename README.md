@@ -24,21 +24,26 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="/assets/visualstudiocode.svg" />
 <img align="left" alt="HTML5" width="26px" src="/assets/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="/assets/css3.svg" />
 <img align="left" alt="Sass" width="26px" src="/assets/sass.svg" />
-<img align="left" alt="JavaScript" width="26px" src="/assets/javascript.svg" />
+<img align="left" alt="tailwind" width="26px" src="/assets/png/tailwind.png" />
 <img align="left" alt="TypeScript" width="26px" src="/assets/typescript.svg" />
+<img align="left" alt="JavaScript" width="26px" src="/assets/javascript.svg" />
 <img align="left" alt="React" width="26px" src="/assets/react.svg" />
+<img align="left" alt="nextjs" width="26px" src="/assets/png/nextjs.png" />
 <img align="left" alt="Vue" width="26px" src="/assets/vue.svg" />
+<img align="left" alt="Svelte" width="26px" src="/assets/png/svelte.png" />
+<img align="left" alt="go" width="26px" src="/assets/png/astro.png" />
 <img align="left" alt="Deno" width="26px" src="/assets/deno.svg" />
+<img align="left" alt="Cypress" width="26px" src="/assets/cypress.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="/assets/visualstudiocode.svg" />
 <img align="left" alt="Git" width="26px" src="/assets/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="/assets/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="/assets/windowsterminal.svg" />
 <img align="left" alt="Unity" width="26px" src="/assets/unity.svg" />
-<img align="left" alt="Cypress" width="26px" src="/assets/cypress.svg" />
-<img align="left" alt="Flutter" width="26px" src="/assets/flutter.svg" />
+<img align="left" alt="trpc" width="26px" src="/assets/png/trpc.png" />
+<img align="left" alt="go" width="26px" src="/assets/png/go.png" />
 <img align="left" alt="Python" width="26px" src="/assets/python.svg" />
 <img align="left" alt="Django" width="26px" src="/assets/django.svg" />
 
