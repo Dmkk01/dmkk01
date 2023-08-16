@@ -7,7 +7,7 @@
 
 ### Work/Projects in progress
 - Part-time front lead developer (Vue.js) at [MaturaIT](https://www.maturait.pl/)
-- Part-time frontend and game developer at [Adquizition](http://www.adquizition.com/)
+- Worked as a part-time frontend and game developer (Unity) at [Adquizition](http://www.adquizition.com/)
 - Worked as a part-time frontend developer (Javascript/Ruby) at [Bukowskis](https://www.bukowskis.com/en)
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
