@@ -1,9 +1,8 @@
 ## Hi there, I'm Dominik and I'm a self-taught passionate developer
 
 ### My interests include: 
-- Web Development with React and Vue (Javascript/Typescript)
-- Mobile Development with Flutter (Dart) and React Native (Typescript)
-- Game Development with Unity (C#)
+- Web Development with React/Next.js and Vue (Javascript/Typescript)
+- Mobile Development with React Native (Typescript)
 
 ### Work/Projects in progress
 - Part-time front lead developer (Vue.js) at [MaturaIT](https://www.maturait.pl/)
