@@ -16,6 +16,7 @@
 - How many days can I be in US? - Travel calculator for US expartriate - [Link](https://www.howmanydayscanibeinus.com/) 
 - Landscape Creative - porfolio website for a friend's relative (T3 Stack) - [Link](https://edwinyeephotography.com/)
 - What's After the Movie? - movie information site (Astro and Golang) - [Link](https://www.whatsafterthemovie.com/)
+- Pyrilia - Journaling and notation tool (Next, Typescript, Prisma, Tailwind) - [Link](https://www.pyrilia.com/)
 
 ### Connect with me:
 
