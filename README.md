@@ -14,7 +14,7 @@
 ### Some of my other work
 - Paralympic Card Game App. Roles: Full-Stack developer (React, Django, DigitalOcean) [Link](https://igrzyskaparaolimpijskie.pl/)
 - P5 Snippets and Tools - P5.js Visual Studio Code extension with snippets, commands and syntax documentation: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools).
-- How many days can I be in US? - Travel calculator for US expartriate - [Link](https://www.howmanydayscanibeinus.com/) 
+- How many days can I be in US? - Travel calculator for US expartriate - [Link](https://how-many-days-can-i-be-in-us.vercel.app/) 
 - Landscape Creative - porfolio website for a friend's relative (T3 Stack) - [Link](https://edwinyeephotography.com/)
 - What's After the Movie? - movie information site (Astro and Golang) - [Link](https://www.whatsafterthemovie.com/)
 - Pyrilia - Journaling and notation tool (Next, Typescript, Prisma, Tailwind) - [Link](https://www.pyrilia.com/)
