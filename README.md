@@ -1,8 +1,9 @@
 ## Hi there, I'm Dominik and I'm a self-taught passionate developer
 
 ### My interests include: 
-- Web Development with React/Next.js and Vue (Javascript/Typescript)
-- Mobile Development with React Native (Typescript)
+- Web Development with React/Next.js and Svelte/Sveltekit 
+- Mobile Development with React Native 
+- Web Scraping with Golang
 
 ### Work/Projects in progress
 - Full-time senior full stack developer (Sveltekit) at [Frontnow](https://frontnow.com/)
