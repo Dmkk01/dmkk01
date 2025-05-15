@@ -7,13 +7,14 @@
 
 ### Work/Projects in progress
 - Full-time senior full stack developer (Sveltekit) at [Frontnow](https://frontnow.com/)
-- Part-time front lead developer (Vue.js) at [MaturaIT](https://www.maturait.pl/)
+- Worked as a part-time front lead developer (Vue.js) at [MaturaIT](https://www.maturait.pl/)
 - Worked as a part-time frontend and game developer (Unity) at [Adquizition](http://www.adquizition.com/)
 - Worked as a part-time frontend developer (Javascript/Ruby) at [Bukowskis](https://www.bukowskis.com/en)
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
 ### Some of my other work
-- SAT Sphere - All-in-one Learning Platform for SAT Students. Roles: Full-Stack developer ((Next, Typescript, Drizzle, Tailwind) [Link](https://www.satsphere.com/)
+- Luntero - Modern rental search platform that simplifies finding the ideal apartment in the Netherlands [Link](https://www.luntero.com/)
+- SAT Sphere - All-in-one Learning Platform for SAT Students. Next.js, Typescript, Drizzle, Tailwind [Link](https://www.satsphere.com/)
 - Paralympic Voleyball Card Game App. Roles: Full-Stack developer (React, Django, DigitalOcean)
 - P5 Snippets and Tools - P5.js Visual Studio Code extension with snippets, commands and syntax documentation: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools).
 - Landscape Creative - porfolio website for a friend's relative (T3 Stack) - [Link](https://edwinyeephotography.com/)
