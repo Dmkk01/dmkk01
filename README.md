@@ -13,13 +13,14 @@
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
 ### Some of my other work
-- Luntero - Modern rental search platform that simplifies finding the ideal apartment in the Netherlands [Link](https://www.luntero.com/)
-- SAT Sphere - All-in-one Learning Platform for SAT Students. Next.js, Typescript, Drizzle, Tailwind [Link](https://www.satsphere.com/)
-- Paralympic Voleyball Card Game App. Roles: Full-Stack developer (React, Django, DigitalOcean)
-- P5 Snippets and Tools - P5.js Visual Studio Code extension with snippets, commands and syntax documentation: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools).
-- Landscape Creative - porfolio website for a friend's relative (T3 Stack) - [Link](https://edwinyeephotography.com/)
-- What's After the Movie? - movie information site (Astro and Golang) - [Link](https://www.whatsafterthemovie.com/)
-- Pyrilia - Journaling and notation tool (Next, Typescript, Prisma, Tailwind) - [Link](https://www.pyrilia.com/)
+- [Luntero](https://www.luntero.com/) Modern rental search platform that simplifies finding the ideal apartment in the Netherlands
+- [SAT Sphere](https://www.satsphere.com/) All-in-one Learning Platform for SAT Students.
+- [P5 Snippets and Tools](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools) P5.js Visual Studio Code extension with snippets, commands and syntax documentation 
+- [Pyrilia](https://www.pyrilia.com/) Journaling and notation tool
+- [What's After the Movie?](https://www.whatsafterthemovie.com/) Movie database
+- [Landscape Creative](https://edwinyeephotography.com/) Porfolio website for a friend's relative
+
+
 
 
 ### My Statistics
