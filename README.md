@@ -24,6 +24,6 @@
 
 
 ### My Statistics
-Data from February 2023:
+Data since February 2023:
 <br />
 [![dmkk01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Dmkk01)](https://wakatime.com/@Dmkk01)
