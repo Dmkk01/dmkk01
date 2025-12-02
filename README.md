@@ -13,12 +13,20 @@
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
 ### Some of my other work
-- [Luntero](https://www.luntero.com/) Modern rental search platform that simplifies finding the ideal apartment in the Netherlands
-- [SAT Sphere](https://www.satsphere.com/) All-in-one Learning Platform for SAT Students.
+Here you go, with two new entries added and written in the same style:
+
+### Some of my other work
+
+Just the new ones, here they are:
+
+- [Driving Theory](https://www.drivingtheory.nl) Driving theory platform with structured lessons, practice sets, road signs, multilingual support, and embedding-powered search
+- [Plot Explained](https://www.plotexplained.com) Movie analysis platform with AI-generated plot summaries, semantic search, and structured content for film exploration
+- [Luntero](https://www.luntero.com) Modern rental search platform that simplifies finding the ideal apartment in the Netherlands
+- [SAT Sphere](https://www.satsphere.com) All-in-one Learning Platform for SAT Students.
 - [P5 Snippets and Tools](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools) P5.js Visual Studio Code extension with snippets, commands and syntax documentation 
-- [Pyrilia](https://www.pyrilia.com/) Journaling and notation tool
-- [What's After the Movie?](https://www.whatsafterthemovie.com/) Movie database
-- [Landscape Creative](https://edwinyeephotography.com/) Porfolio website for a friend's relative
+- [Pyrilia](https://www.pyrilia.com) Journaling and notation tool
+- [What's After the Movie?](https://www.whatsafterthemovie.com) Movie database
+- [Landscape Creative](https://edwinyeephotography.com) Porfolio website for a friend's relative
 
 
 
