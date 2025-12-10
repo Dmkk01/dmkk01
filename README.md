@@ -14,8 +14,6 @@
 
 ### Some of my other work
 
-Just the new ones, here they are:
-
 - [Driving Theory](https://www.drivingtheory.nl) Driving theory platform with structured lessons, practice sets, road signs, multilingual support, and embedding-powered search
 - [Plot Explained](https://www.plotexplained.com) Movie analysis platform with AI-generated plot summaries, semantic search, and structured content for film exploration
 - [Luntero](https://www.luntero.com) Modern rental search platform that simplifies finding the ideal apartment in the Netherlands
