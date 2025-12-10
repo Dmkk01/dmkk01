@@ -13,9 +13,6 @@
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
 ### Some of my other work
-Here you go, with two new entries added and written in the same style:
-
-### Some of my other work
 
 Just the new ones, here they are:
 
