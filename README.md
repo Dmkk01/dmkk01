@@ -24,9 +24,3 @@
 - [Landscape Creative](https://edwinyeephotography.com) Porfolio website for a friend's relative
 
 
-
-
-### My Statistics
-Data since February 2023:
-<br />
-[![dmkk01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Dmkk01)](https://wakatime.com/@Dmkk01)
