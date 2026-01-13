@@ -6,6 +6,7 @@
 - Web Scraping with Golang
 
 ### Work/Projects in progress
+- Working as a part-time developer (Next.js) at [Bank.green](https://bank.green/)
 - Worked as a full-time senior full stack developer (Sveltekit) at [Frontnow](https://frontnow.com/)
 - Worked as a part-time front lead developer (Vue.js) at [MaturaIT](https://www.maturait.pl/)
 - Worked as a part-time frontend and game developer (Unity) at [Adquizition](http://www.adquizition.com/)
