@@ -14,14 +14,16 @@
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
 ### Some of my other work
-- [MovieDust](https://moviedust.com) Cinema and movie showtime aggregator that lets you discover movies playing today in your city, compare cinemas, and explore film schedules across locations
-- [Driving Theory](https://www.drivingtheory.nl) Driving theory platform with structured lessons, practice sets, road signs, multilingual support, and embedding-powered search
-- [Plot Explained](https://www.plotexplained.com) Movie analysis platform with AI-generated plot summaries, semantic search, and structured content for film exploration
-- [Luntero](https://www.luntero.com) Modern rental search platform that simplifies finding the ideal apartment in the Netherlands
-- [SAT Sphere](https://www.satsphere.com) All-in-one Learning Platform for SAT Students.
-- [P5 Snippets and Tools](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools) P5.js Visual Studio Code extension with snippets, commands and syntax documentation 
-- [Pyrilia](https://www.pyrilia.com) Journaling and notation tool
-- [What's After the Movie?](https://www.whatsafterthemovie.com) Movie database
-- [Landscape Creative](https://edwinyeephotography.com) Porfolio website for a friend's relative
-
+### Some of my other work
+- [Mori Atlas](https://moriatlas.com) Global explorer of national parks and protected areas with structured data and geographic discovery
+- [Musemap](https://musemap.art) Museum discovery platform with structured data, exhibitions, and searchable cultural content
+- [MovieDust](https://moviedust.com) Cinema and showtime aggregator with location-based discovery and structured movie listings
+- [Driving Theory](https://www.drivingtheory.nl) Driving theory platform with structured lessons, practice sets, and multilingual support
+- [Plot Explained](https://www.plotexplained.com) Movie analysis platform with structured summaries and AI-generated insights
+- [Luntero](https://www.luntero.com) Rental search platform for the Dutch market with structured listings and location filters
+- [SAT Sphere](https://www.satsphere.com) SAT learning platform with structured practice content and progress tracking
+- [P5 Snippets and Tools](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools) VS Code extension for p5.js with snippets, commands, and documentation
+- [Pyrilia](https://www.pyrilia.com) Journaling and note-taking tool with simple structure and focused writing
+- [What's After the Movie?](https://www.whatsafterthemovie.com) Movie database with structured data and post-watch exploration
+- [Landscape Creative](https://edwinyeephotography.com) Photography portfolio with curated galleries and landscape collections
 
