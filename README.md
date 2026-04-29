@@ -14,6 +14,7 @@
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
 ### Some of my other work
+- [Pokechamp](https://www.pokechamp.io) Competitive Pokémon companion with structured data for Pokémon, moves, abilities, items, stats, and battle mechanics
 - [Mori Atlas](https://moriatlas.com) Global explorer of national parks and protected areas with structured data and geographic discovery
 - [Musemap](https://musemap.art) Museum discovery platform with structured data, exhibitions, and searchable cultural content
 - [MovieDust](https://moviedust.com) Cinema and showtime aggregator with location-based discovery and structured movie listings
