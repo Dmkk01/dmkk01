@@ -18,7 +18,7 @@
 - [Mori Atlas](https://moriatlas.com) Global explorer of national parks and protected areas with structured data and geographic discovery
 - [Musemap](https://musemap.art) Museum discovery platform with structured data, exhibitions, and searchable cultural content
 - [MovieDust](https://moviedust.com) Cinema and showtime aggregator with location-based discovery and structured movie listings
-- [Driving Theory](https://www.drivingtheory.nl) Driving theory platform with structured lessons, practice sets, and multilingual support
+- [Driving Theory](https://www.learndrivingtheory.com) Driving theory platform with structured lessons, practice sets, and multilingual support
 - [Plot Explained](https://www.plotexplained.com) Movie analysis platform with structured summaries and AI-generated insights
 - [Luntero](https://www.luntero.com) Rental search platform for the Dutch market with structured listings and location filters
 - [SAT Sphere](https://www.satsphere.com) SAT learning platform with structured practice content and progress tracking
