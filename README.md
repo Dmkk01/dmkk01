@@ -14,6 +14,7 @@
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
 ### Some of my other work
+- [Local Manual](https://localmanual.com) Practical guides for moving abroad, paperwork, public services, and everyday life
 - [Selkobase](https://www.selkobase.com/en) Professional certification explorer with structured data, comparisons, and career pathways
 - [Pokechamp](https://www.pokechamp.io) Competitive Pokémon companion with structured data for Pokémon, moves, abilities, items, and stats
 - [Mori Atlas](https://moriatlas.com) Global explorer of national parks and protected areas with structured data and geographic discovery
