@@ -6,7 +6,7 @@
 - Web Scraping with Golang
 
 ### Work/Projects in progress
-- Working as a part-time developer (Next.js) at [Bank.green](https://bank.green/)
+- Working as a part-time developer (Next.js, Django) at [Bank.green](https://bank.green/)
 - Worked as a full-time senior full stack developer (Sveltekit) at [Frontnow](https://frontnow.com/)
 - Worked as a part-time front lead developer (Vue.js) at [MaturaIT](https://www.maturait.pl/)
 - Worked as a part-time frontend and game developer (Unity) at [Adquizition](http://www.adquizition.com/)
@@ -14,18 +14,19 @@
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
 ### Some of my other work
-- [Local Manual](https://localmanual.com) Practical guides for moving abroad, paperwork, public services, and everyday life
-- [Selkobase](https://www.selkobase.com/en) Professional certification explorer with structured data, comparisons, and career pathways
-- [Pokechamp](https://www.pokechamp.io) Competitive Pokémon companion with structured data for Pokémon, moves, abilities, items, and stats
-- [Mori Atlas](https://moriatlas.com) Global explorer of national parks and protected areas with structured data and geographic discovery
-- [Musemap](https://musemap.art) Museum discovery platform with structured data, exhibitions, and searchable cultural content
-- [MovieDust](https://moviedust.com) Cinema and showtime aggregator with location-based discovery and structured movie listings
-- [Driving Theory](https://www.learndrivingtheory.com) Driving theory platform with structured lessons, practice sets, and multilingual support
-- [Plot Explained](https://www.plotexplained.com) Movie analysis platform with structured summaries and AI-generated insights
-- [Luntero](https://www.luntero.com) Rental search platform for the Dutch market with structured listings and location filters
-- [SAT Sphere](https://www.satsphere.com) SAT learning platform with structured practice content and progress tracking
-- [P5 Snippets and Tools](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools) VS Code extension for p5.js with snippets, commands, and documentation
-- [Pyrilia](https://www.pyrilia.com) Journaling and note-taking tool with simple structure and focused writing
-- [What's After the Movie?](https://www.whatsafterthemovie.com) Movie database with structured data and post-watch exploration
-- [Landscape Creative](https://edwinyeephotography.com) Photography portfolio with curated galleries and landscape collections
-
+- [Lernavi](https://www.lernavi.com) — Global discovery platform for schools and recognized education providers, built from official country-level datasets
+- [GymRoam](https://www.gymroam.com) — Gym and fitness-venue discovery platform with search by location, brand, and facility type
+- [Local Manual](https://localmanual.com) — Practical guides for moving abroad, navigating paperwork, accessing public services, and managing everyday life
+- [Selkobase](https://www.selkobase.com/en) — Professional certification explorer with structured comparisons, providers, skills, and career pathways
+- [Pokechamp](https://www.pokechamp.io) — Pokémon Champions database and strategy companion covering Pokémon, moves, abilities, items, and competitive insights
+- [Mori Atlas](https://moriatlas.com) — Global explorer of national parks and protected areas with geographic search, maps, and structured environmental data
+- [Musemap](https://musemap.art) — Museum discovery platform with exhibitions, cultural collections, location-based exploration, and searchable content
+- [MovieDust](https://moviedust.com) — Cinema and showtime aggregator with location-based discovery and structured movie listings
+- [Driving Theory](https://www.learndrivingtheory.com) — Multilingual driving-theory platform with country-specific curricula, structured lessons, and practice sets
+- [Plot Explained](https://www.plotexplained.com) — Movie analysis platform with detailed plot explanations, summaries, and post-watch insights
+- [Luntero](https://www.luntero.com) — Dutch rental discovery platform aggregating property listings with search, maps, comparisons, and location filters
+- [SAT Sphere](https://www.satsphere.com) — SAT learning platform with personalized practice, structured courses, study tools, and progress tracking
+- [P5 Snippets and Tools](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools) — VS Code extension for p5.js with snippets, commands, and integrated documentation
+- [Pyrilia](https://www.pyrilia.com) — Journaling and note-taking application designed around focused, structured writing
+- [What's After the Movie?](https://www.whatsafterthemovie.com) — Movie database with credits information, summaries, recommendations, and structured post-watch discovery
+- [Landscape Creative](https://edwinyeephotography.com) — Photography portfolio featuring curated landscape galleries and visual collections
