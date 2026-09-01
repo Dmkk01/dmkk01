@@ -14,19 +14,19 @@
 - Worked as a full-time junior frontend developer (Java, React) at [Atlas Copco](https://www.atlascopcogroup.com/en) in the R&D Department.
 
 ### Some of my other work
-- [Lernavi](https://www.lernavi.com) — Global discovery platform for schools and recognized education providers, built from official country-level datasets
-- [GymRoam](https://www.gymroam.com) — Gym and fitness-venue discovery platform with search by location, brand, and facility type
-- [Local Manual](https://localmanual.com) — Practical guides for moving abroad, navigating paperwork, accessing public services, and managing everyday life
-- [Selkobase](https://www.selkobase.com/en) — Professional certification explorer with structured comparisons, providers, skills, and career pathways
-- [Pokechamp](https://www.pokechamp.io) — Pokémon Champions database and strategy companion covering Pokémon, moves, abilities, items, and competitive insights
-- [Mori Atlas](https://moriatlas.com) — Global explorer of national parks and protected areas with geographic search, maps, and structured environmental data
-- [Musemap](https://musemap.art) — Museum discovery platform with exhibitions, cultural collections, location-based exploration, and searchable content
-- [MovieDust](https://moviedust.com) — Cinema and showtime aggregator with location-based discovery and structured movie listings
-- [Driving Theory](https://www.learndrivingtheory.com) — Multilingual driving-theory platform with country-specific curricula, structured lessons, and practice sets
-- [Plot Explained](https://www.plotexplained.com) — Movie analysis platform with detailed plot explanations, summaries, and post-watch insights
-- [Luntero](https://www.luntero.com) — Dutch rental discovery platform aggregating property listings with search, maps, comparisons, and location filters
-- [SAT Sphere](https://www.satsphere.com) — SAT learning platform with personalized practice, structured courses, study tools, and progress tracking
-- [P5 Snippets and Tools](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools) — VS Code extension for p5.js with snippets, commands, and integrated documentation
-- [Pyrilia](https://www.pyrilia.com) — Journaling and note-taking application designed around focused, structured writing
-- [What's After the Movie?](https://www.whatsafterthemovie.com) — Movie database with credits information, summaries, recommendations, and structured post-watch discovery
-- [Landscape Creative](https://edwinyeephotography.com) — Photography portfolio featuring curated landscape galleries and visual collections
+- [Lernavi](https://www.lernavi.com) — Global school and education-provider directory
+- [GymRoam](https://www.gymroam.com) — Global gym and fitness-venue finder
+- [Local Manual](https://localmanual.com) — Practical guides for living and moving abroad
+- [Selkobase](https://www.selkobase.com/en) — Professional certification and career-path explorer
+- [Pokechamp](https://www.pokechamp.io) — Pokémon Champions game companion and competitive strategy planner
+- [Mori Atlas](https://moriatlas.com) — Global national park and protected-area explorer
+- [Musemap](https://musemap.art) — Museum, exhibition, and cultural discovery platform
+- [MovieDust](https://moviedust.com) — Local cinema and showtime finder
+- [Driving Theory](https://www.learndrivingtheory.com) — Multilingual driving-theory courses and practice
+- [Plot Explained](https://www.plotexplained.com) — Movie plot explanations, summaries, and analysis
+- [Luntero](https://www.luntero.com) — Dutch rental search and comparison platform
+- [SAT Sphere](https://www.satsphere.com) — Personalized SAT courses, practice, and progress tracking
+- [P5 Snippets and Tools](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools) — VS Code tools and snippets for p5.js
+- [Pyrilia](https://www.pyrilia.com) — Focused journaling and note-taking app
+- [What's After the Movie?](https://www.whatsafterthemovie.com) — Post-watch movie database and discovery platform
+- [Landscape Creative](https://edwinyeephotography.com) — Curated landscape photography portfolio
