@@ -27,6 +27,5 @@
 - [Luntero](https://www.luntero.com) — Dutch rental search and comparison platform
 - [SAT Sphere](https://www.satsphere.com) — Personalized SAT courses, practice, and progress tracking
 - [P5 Snippets and Tools](https://marketplace.visualstudio.com/items?itemName=Dominikasinski.p5-snippets-and-tools) — VS Code tools and snippets for p5.js
-- [Pyrilia](https://www.pyrilia.com) — Focused journaling and note-taking app
 - [What's After the Movie?](https://www.whatsafterthemovie.com) — Post-watch movie database and discovery platform
 - [Landscape Creative](https://edwinyeephotography.com) — Curated landscape photography portfolio
